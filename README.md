@@ -1,28 +1,28 @@
-Modules of Online Travel Agency in PHP & this project is done by in group ,Aditi Shreya, Aman Kumar Tripathi, Priyadarshini Pradhan
-  Admin
-  Users
-  Guest users
-Users—
-  User can register yourself.
-  User can log in with valid email and password.
-  Forgot Password(user Can recover own password)
-  Tour Booking
-  Manage Booking
-  Generate Ticket(Regarding Complaint)
-  change Password
-Admin–
-  Admin can create Package
-  Manage packages(Create,Update)
-  Manage Users
-  Manage Inquiries
-  Manage issues
-  Manage Booking
-  Manage Pages
-  Change Password
-  Admin Dashboard
-Guest users—
-  Visit the Website
-  Guest user can enquiry
+This project is done by in group ,Aditi Shreya, Aman Kumar Tripathi, Priyadarshini Pradhan.Modules of Online Travel Agency in PHP....
+  Admin,
+  Users,
+  Guest users,
+(Users)—
+  User can register yourself, 
+  User can log in with valid email and password,
+  Forgot Password(user Can recover own password),
+  Tour Booking,
+  Manage Booking,
+  Generate Ticket(Regarding Complaint),
+  change Password,
+(Admin)–
+  Admin can create Package,
+  Manage packages(Create,Update),
+  Manage Users,
+  Manage Inquiries,
+  Manage issues,
+  Manage Booking,
+  Manage Pages,
+  Change Password,
+  Admin Dashboard,
+(Guest users)—
+  Visit the Website,
+  Guest user can enquiry,
 
                                         Some of the Project Screens
 
