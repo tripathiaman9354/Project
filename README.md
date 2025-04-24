@@ -30,7 +30,6 @@ Home Page
 
 ![image](https://github.com/user-attachments/assets/9af74c76-8c0b-47c3-bc7c-17190d166514)
 
-
 User Signup/Registration
 
 ![image](https://github.com/user-attachments/assets/644051fa-bd42-4219-aef1-3e99f2ea8726)
